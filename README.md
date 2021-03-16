@@ -7,7 +7,7 @@
 - Received the M.S. degrees, in Statistics from Sungkyunkwan University, Seoul, Korea, in 2020.
 - Admitted to the Hanyang Univ. [Data Intelligence Lab](https://dilab.hanyang.ac.kr), Seoul, Korea, as a **Ph.D. Student**, in 2021.
 
-### 🌱 Research Interest
+### 🌱 Research
 - **Bayesian-Deep Learning(B-DL)**
     - Bayesian Approximation
     - Description Length Minimization
