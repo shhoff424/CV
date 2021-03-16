@@ -1,4 +1,4 @@
-### Sunghyun Hwang(shhoff)
+### Sunghyun Hwang (shhoff)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shhoff" alt="shhoff" /> </p>
 
@@ -8,17 +8,17 @@
 - Admitted to the Hanyang Univ. [Data Intelligence Lab](https://dilab.hanyang.ac.kr), Seoul, Korea, as a **Ph.D. Student**, in 2021.
 
 ### 🌱 Research
-- **Bayesian-Deep Learning(B-DL)**
+- **Bayesian-Deep Learning (B-DL)**
     - Bayesian Approximation
     - Description Length Minimization
     - Ensemble Learning
     - Variational Inference
-- **eXplainable-Deep Learning(X-DL)**
+- **eXplainable-Deep Learning (X-DL)**
     - Attention Based X-DL
     - Input Attribution Based X-DL
     - Internal Node Based X-DL
     - Output Based X-DL
-- **Recommendation System(RS)**
+- **Recommendation System (RS)**
     - Collaborative Filtering Based RS
     - Content Based RS
     - Hybrid RS
