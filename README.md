@@ -1,4 +1,4 @@
-### Sunghyun Hwang [@shhoff](https://shhoff.github.io)
+### Sunghyun Hwang(shhoff)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shhoff" alt="shhoff" /> </p>
 
@@ -27,7 +27,7 @@
 ### 👯 Activity
 - [B-DL Study](https://shhoff.github.io) Organizer
 - [X-DL Study](https://shhoff.github.io) Organizer
-- [Personal Blog](https://shhoff.github.io)
+- [Research Blog](https://shhoff.github.io)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shhoff&show_icons=true" alt="shhoff" /></p>
 
