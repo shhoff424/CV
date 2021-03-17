@@ -18,7 +18,7 @@
     - Input Attribution Based X-DL
     - Internal Node Based X-DL
     - Output Based X-DL
-- **Recommendation System (RS)**
+- **Recommender System (RS)**
     - Collaborative Filtering Based RS
     - Content Based RS
     - Hybrid RS
