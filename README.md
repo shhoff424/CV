@@ -30,3 +30,7 @@
 - [Research Blog](https://shhoff.github.io)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shhoff&show_icons=true" alt="shhoff" /></p>
+
+
+### 📫 Contact
+- E-mail: shhoff@hanyang.ac.kr
