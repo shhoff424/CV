@@ -25,8 +25,6 @@
     - Knowledge Based RS
 
 ### 👯 Activity
-- [B-DL Study](https://shhoff.github.io/categories/b-dl-study) Organizer
-- [X-DL Study](https://shhoff.github.io/categories/x-dl-study) Organizer
 - [Personal Blog](https://shhoff.github.io)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shhoff&show_icons=true" alt="shhoff" /></p>
