@@ -14,15 +14,15 @@
     - Ensemble Learning
     - Variational Inference
 - **eXplainable-Deep Learning(X-DL)**
-    - Attention Based X-DL
-    - Input Attribution Based X-DL
-    - Internal Node Based X-DL
-    - Output Based X-DL
+    - Attention based X-DL
+    - Input Attribution based X-DL
+    - Internal Node based X-DL
+    - Output based X-DL
 - **Recommender System(RS)**
-    - Collaborative Filtering Based RS
-    - Content Based RS
+    - Collaborative Filtering based RS
+    - Content based RS
     - Hybrid RS
-    - Knowledge Based RS
+    - Knowledge Graph based RS
 
 ### Conference Papers
 
