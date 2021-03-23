@@ -22,7 +22,7 @@
     - Collaborative Filtering based RS
     - Content based RS
     - Hybrid RS
-    - Knowledge Graph based RS
+    - Knowledge based RS
 
 ### Conference Papers
 
