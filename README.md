@@ -3,10 +3,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shhoff" alt="shhoff" /> </p>
 
 ### Areas of Research
-- **Generative Model**
-    - Auto-Regressive Model
-    - Generative Adversarial Network
-    - Latent Variable Model
+- **Generative Modelling**
+    - Auto-Regressive Models
+    - Generative Adversarial Networks
+    - Latent Variable Models
     - Maximum Likelihood Learning
 - **Recommender System**
     - Explainable Recommender System
