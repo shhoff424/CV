@@ -11,13 +11,13 @@
 - **Recommender System**
     - Explainable Recommender System
     - Knowledge Graph Representation
-    - Sparse Data Imputation
+    - Session-based Recommendation
     - Top-N Collaborative Filtering
-- **Uncertainty Estimation**
-    - Bayesian Non-Parametric Model
-    - Bayesian Deep Neural Network
-    - Deep Bayesian Neural Network
-    - Non-Bayesian Model
+- **Uncertainty Quantification**
+    - Bayesian Neural Networks
+    - Deep Latent Variable Models
+    - Monte-Carlo Ensemble-based Methods
+    - Non-Bayesian Ensemble-based Methods
 
 ### Careers
 - Received the B.A. degrees, in Business Administration from Sungkyunkwan University, Seoul, Korea, in 2018.
