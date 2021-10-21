@@ -3,10 +3,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shhoff" alt="shhoff" /> </p>
 
 ### Areas of Research
-- **Generative Modelling**
-    - Auto-Regressive Models
-    - Generative Adversarial Networks
-    - Latent Variable Models
+- **Data Imputation**
+    - AR Model-based Imputation
+    - DLVM Model-based Imputation
+    - GAN Model-based Imputation
     - Maximum Likelihood Learning
 - **Recommender System**
     - Explainable Recommender System
