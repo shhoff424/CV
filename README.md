@@ -3,21 +3,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shhoff" alt="shhoff" /> </p>
 
 ### Areas of Research
-- **Data Imputation**
-    - AR Model-based Imputation
-    - DLVM Model-based Imputation
-    - GAN Model-based Imputation
-    - Maximum Likelihood Learning
-- **Recommender System**
-    - Explainable Recommender System
-    - Knowledge Graph Representation
-    - Session-based Recommendation
-    - Top-N Collaborative Filtering
-- **Uncertainty Quantification**
-    - Bayesian Neural Networks
-    - Deep Latent Variable Models
-    - Monte-Carlo Ensemble-based Methods
-    - Non-Bayesian Ensemble-based Methods
+- **Data Imputation in Collaborative Filtering**
+- **Uncertainty Quantification with Deep Generative Model**
 
 ### Careers
 - Received the B.A. degrees, in Business Administration from Sungkyunkwan University, Seoul, Korea, in 2018.
