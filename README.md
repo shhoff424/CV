@@ -3,8 +3,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shhoff" alt="shhoff" /> </p>
 
 ### Areas of Research
-- **Data Imputation in Collaborative Filtering**
-- **Uncertainty Quantification with Deep Generative Model**
+- **Data Imputation**
+- **Deep Generative Model**
+- **Out-of-distribution Detection**
+- **Uncertainty Calibration / Quantification**
 
 ### Careers
 - Received the B.A. degrees, in Business Administration from Sungkyunkwan University, Seoul, Korea, in 2018.
