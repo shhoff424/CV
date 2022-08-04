@@ -3,9 +3,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shhoff" alt="shhoff" /> </p>
 
 ### Areas of Research
+- **Collaborative Filtering**
 - **Data Imputation**
-- **Deep Generative Model**
-- **Out-of-distribution Detection**
+- **Knowledge Distillation**
 - **Uncertainty Calibration / Quantification**
 
 ### Careers
