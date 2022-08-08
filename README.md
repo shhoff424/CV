@@ -7,7 +7,7 @@
 - **Deep Neural Network**
 - **Explainable Computer Vision**
 
-### Careers
+### Selected Careers
 - Received the B.A. degrees, in Business Administration from Sungkyunkwan University, Seoul, Korea, in 2018.
 - Received the M.S. degrees, in Statistics from Sungkyunkwan University, Seoul, Korea, in 2020.
 - Admitted to the **Hanyang Univ.** [**Data Intelligence Lab**](https://dilab.hanyang.ac.kr), Seoul, Korea, as a **Ph.D. Candidate**, in 2021.
