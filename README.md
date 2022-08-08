@@ -12,9 +12,10 @@
 - Received the M.S. degrees, in Statistics from Sungkyunkwan University, Seoul, Korea, in 2020.
 - Admitted to the Hanyang Univ. [Data Intelligence Lab](https://dilab.hanyang.ac.kr), Seoul, Korea, as a **Ph.D. Student**, in 2021.
 
-### Conference Papers
+### Selected Conference Papers
+**Sunghyun Hwang** and Dong-Kyu Chae, **An Uncertainty-Aware Imputation Framework for Alleviating the Sparsity Problem in Collaborative Filtering**, In [**CIKM 2022**](https://www.cikm2022.org), Oct. 17-21, 2022 (A/R: )
 
-### Journal Papers
+### Selected Journal Papers
 
 ### Projects
 
