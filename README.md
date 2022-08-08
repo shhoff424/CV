@@ -3,10 +3,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shhoff" alt="shhoff" /> </p>
 
 ### Areas of Research
+- **Bayesian Model Averaging**
 - **Collaborative Filtering**
 - **Data Imputation**
 - **Knowledge Distillation**
-- **Uncertainty Calibration / Quantification**
+- **Spiking Neural Network**
 
 ### Careers
 - Received the B.A. degrees, in Business Administration from Sungkyunkwan University, Seoul, Korea, in 2018.
