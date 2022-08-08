@@ -6,6 +6,7 @@
 - **Bayesian Model Averaging**
 - **Collaborative Filtering**
 - **Data Imputation**
+- **Diffusion Model**
 - **Knowledge Distillation**
 - **Spiking Neural Network**
 
