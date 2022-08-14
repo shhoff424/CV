@@ -4,8 +4,10 @@
 
 ### Areas of Research
 - **Collaborative Filtering**
-- **Deep Neural Network**
+- **Data Imputation**
 - **Explainable Computer Vision**
+- **Spiking Neural Network**
+- **Uncertainty Quantification**
 
 ### Careers
 - Received the B.A. degrees, in Business Administration from Sungkyunkwan University, Seoul, Korea, in 2018.
