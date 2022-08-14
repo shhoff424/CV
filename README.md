@@ -3,11 +3,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shhoff" alt="shhoff" /> </p>
 
 ### Areas of Research
-- **Data Imputation**
+- **Deep Neural Network**
 - **Explainable Computer Vision**
 - **Recommender System**
-- **Spiking Neural Network**
-- **Uncertainty Quantification**
 
 ### Careers
 - Received the **B.A. Degree** in **Business Administration** from **Sungkyunkwan Univ.**, Seoul, Korea, in 2018.
