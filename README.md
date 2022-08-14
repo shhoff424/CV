@@ -10,8 +10,8 @@
 - **Uncertainty Quantification**
 
 ### Careers
-- Received the **B.A. degree** in **Business Administration** from **Sungkyunkwan Univ.**, Seoul, Korea, in 2018.
-- Received the **M.S. degree** in **Statistics** from **Sungkyunkwan Univ.**, Seoul, Korea, in 2020.
+- Received the **B.A. Degree** in **Business Administration** from **Sungkyunkwan Univ.**, Seoul, Korea, in 2018.
+- Received the **M.S. Degree** in **Statistics** from **Sungkyunkwan Univ.**, Seoul, Korea, in 2020.
 - Admitted to the [**Data Intelligence Lab.**](https://dilab.hanyang.ac.kr) as a **Ph.D. Candidate** in **Artificial Intelligence** from **Hanyang Univ.**, Seoul, Korea, in 2021.
 
 ### Projects
