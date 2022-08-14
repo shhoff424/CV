@@ -12,7 +12,7 @@
 ### Careers
 - Received the B.A. degrees, in Business Administration from Sungkyunkwan University, Seoul, Korea, in 2018.
 - Received the M.S. degrees, in Statistics from Sungkyunkwan University, Seoul, Korea, in 2020.
-- Admitted to the [**Data Intelligence Lab**](https://dilab.hanyang.ac.kr) from **Hanyang Univ.**, Seoul, Korea, as a **Ph.D. Candidate**, in 2021.
+- Admitted to the [**Data Intelligence Lab**](https://dilab.hanyang.ac.kr) from **Dept. of A.I.**, **Hanyang Univ.**, Seoul, Korea, as a **Ph.D. Candidate**, in 2021.
 
 ### Projects
 
