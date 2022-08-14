@@ -3,9 +3,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shhoff" alt="shhoff" /> </p>
 
 ### Areas of Research
-- **Collaborative Filtering**
 - **Data Imputation**
 - **Explainable Computer Vision**
+- **Recommender System**
 - **Spiking Neural Network**
 - **Uncertainty Quantification**
 
