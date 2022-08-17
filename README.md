@@ -15,6 +15,6 @@
 ### Projects
 
 ### Publications
-- **Sunghyun Hwang** and Dong-Kyu Chae, **An Uncertainty-Aware Imputation Framework for Alleviating the Sparsity Problem in Collaborative Filtering**, In [**CIKM 2022**](https://www.cikm2022.org), Oct. 17-21, 2022 (**A/R: %**)
+- **Sunghyun Hwang** and Dong-Kyu Chae, **An Uncertainty-Aware Imputation Framework for Alleviating the Sparsity Problem in Collaborative Filtering**, in [**CIKM 2022**](https://www.cikm2022.org), Oct. 17-21, 2022 (**A/R: %**)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shhoff&show_icons=true" alt="shhoff" /></p>
