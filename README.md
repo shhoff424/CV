@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shhoff" alt="shhoff" /> </p>
 
 ### Areas of Research
-- **Deep Neural Network**
+- **Deep / Machine Learning**
 - **Explainable Computer Vision**
 - **Recommender System**
 
