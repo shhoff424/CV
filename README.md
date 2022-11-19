@@ -3,9 +3,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shhoff" alt="shhoff" /> </p>
 
 ### Areas of Research
-- **Computer Vision**
-- **Recommender System**
-- **Statistical Machine Learning**
+- **Interpretable Deep Learning**
+- **Recommendation System**
+- **Uncertainty in Deep Learning**
 
 ### Careers
 - Received the **B.A. Degree** in **Business Administration** from **Sungkyunkwan Univ.**, Seoul, Korea, in 2018.
