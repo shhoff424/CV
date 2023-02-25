@@ -3,9 +3,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shhoff" alt="shhoff" /> </p>
 
 ### Areas of Research
-- **Interpretable Deep Learning**
-- **Recommendation System**
-- **Uncertainty in Deep Learning**
+- **Ensemble-based Uncertainty in Neural Network**
+- **Interpretable Neural Network**
+- **Novel Structure of Neural Network**
 
 ### Careers
 - Received the **B.A. Degree** in **Business Administration** from **Sungkyunkwan Univ.**, Seoul, Korea, in 2018.
