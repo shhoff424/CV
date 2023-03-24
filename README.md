@@ -3,9 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shhoff" alt="shhoff" /> </p>
 
 ### Areas of Research
-- **Ensemble-based Uncertainty in Neural Network**
-- **Interpretable Neural Network**
-- **Novel Structure of Neural Network**
+- **Deep Neural Networks for Tabular Data**
 
 ### Careers
 - Received the **B.A. Degree** in **Business Administration** from **Sungkyunkwan Univ.**, Seoul, Korea, in 2018.
@@ -15,6 +13,6 @@
 ### Projects
 
 ### Publications
-- **Sunghyun Hwang** and Dong-Kyu Chae, **An Uncertainty-Aware Imputation Framework for Alleviating the Sparsity Problem in Collaborative Filtering**, in [**CIKM 2022**](https://www.cikm2022.org), Oct. 17-21, 2022 (**A/R: %**)
+- **Sunghyun Hwang** and Dong-Kyu Chae, **An Uncertainty-Aware Imputation Framework for Alleviating the Sparsity Problem in Collaborative Filtering**, in [**CIKM 2022**](https://www.cikm2022.org), Oct. 17-21, 2022 (**A/R: 25%**)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shhoff&show_icons=true" alt="shhoff" /></p>
