@@ -3,7 +3,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shhoff" alt="shhoff" /> </p>
 
 ### Areas of Research
-- **Deep Neural Networks for Tabular Data**
+- **Tabular Data**
+- **Recommendation Systems**
 
 ### Careers
 - Received the **B.A. Degree** in **Business Administration** from **Sungkyunkwan Univ.**, Seoul, Korea, in 2018.
