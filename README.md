@@ -3,9 +3,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shhoff" alt="shhoff" /> </p>
 
 ### Areas of Research
-- **Data Imputation in Recommendation Systems**
-- **Interpretable Models for Tabular Data**
-- **Part-Whole Hierarchy Models in Computer Vision**
+- **Bayesian Model Averaging**
+- **Interpretable Neural Networks**
 
 ### Careers
 - Received the **B.A. Degree** in **Business Administration** from **Sungkyunkwan Univ.**, Seoul, Korea, in 2018.
