@@ -4,7 +4,7 @@
 
 ### Areas of Research
 - **Recsys : Bayesian Model Averaging, Data Imputation, Sample Complexity**
-- **Tabular : Bayesian Model Averaging, Knowledge Distillation, Model-intrinsic Interpretable Model**
+- **Tabular : Ensemble Knowledge Distillation, Model-intrinsic Interpretable Model**
 
 ### Careers
 - Received the **B.A. Degree** in **Business Administration** from **Sungkyunkwan Univ.**, Seoul, Korea, in 2018.
