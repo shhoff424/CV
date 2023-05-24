@@ -3,8 +3,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shhoff" alt="shhoff" /> </p>
 
 ### Areas of Research
-- **Recsys : Bayesian Model Averaging, Data Imputation, Sample Complexity**
+- **Recsys : Bayesian Model Averaging, Data Imputation, Sample Complexity, Spiking Neural Network**
 - **Tabular : Ensemble Knowledge Distillation, Model-intrinsic Interpretable Model**
+- **Vision : Model-intrinsic Interpretable Model, Spiking Neural Network**
 
 ### Careers
 - Received the **B.A. Degree** in **Business Administration** from **Sungkyunkwan Univ.**, Seoul, Korea, in 2018.
