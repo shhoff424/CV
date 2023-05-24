@@ -3,8 +3,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shhoff" alt="shhoff" /> </p>
 
 ### Areas of Research
-- **Bayesian Model Averaging**
-- **Interpretable Neural Networks**
+- **Recsys : Bayesian Model Averaging, Data Imputation, Sample Complexity**
+- **Tabular : Bayesian Model Averaging, Knowledge Distillation, Model-intrinsic Interpretable Model**
 
 ### Careers
 - Received the **B.A. Degree** in **Business Administration** from **Sungkyunkwan Univ.**, Seoul, Korea, in 2018.
