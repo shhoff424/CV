@@ -16,7 +16,7 @@
 
 ### Projects
 - [**Doosan Bobcat**] Developing a Price Sensitivity Model for Profit Maximization (2022.06 ~ 2023.05)
-- [**National Security Research Institute**] Correlation between Training Sample Size and Performance of Time-series Anomaly Detection AI Models (2023.04 ~ 2023.10)
+- [**National Security Research Institute**] Correlation between Training Sample Size and Performance of Time-Series Anomaly Detection AI Models (2023.04 ~ 2023.10)
 
 ### Honors & Awards
 - SIGIR Student Travel Grants, [**CIKM 2022**](https://www.cikm2022.org)
