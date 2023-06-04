@@ -4,7 +4,7 @@
 
 ### Areas of Research
 - **Recsys : Data Imputation**
-- **XAI : Part-whole Interpretability of NNs (Vision) / Uncertainty-aware Interpretability of GAMs (Tabular)**
+- **XAI : Part-whole Interpretability (Vision) / Interpretability of GAMs (Tabular)**
 
 ### Careers
 - Received the **B.A. Degree** in **Business Administration** from **Sungkyunkwan Univ.**, Seoul, Korea, in 2018.
