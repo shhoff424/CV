@@ -4,7 +4,7 @@
 
 ### Areas of Interest
 - **Recsys : Data Imputation**
-- **XAI : Feature-Wise Density Network (Tabular) / Part-Whole Hierarchy (Vision)**
+- **XAI : Feature-Wise Interpretability (Tabular) / Part-Whole Interpretability (Vision)**
 
 ### Experiences
 - Received the **B.A. Degree** in **Business Administration** from **Sungkyunkwan Univ.**, Seoul, Korea, in Feb., 2018
