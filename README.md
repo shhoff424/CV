@@ -3,13 +3,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shhoff" alt="shhoff" /> </p>
 
 ### Areas of Interest
-- **Recsys : Data Imputation**
-- **XAI : Feature-Wise Interpretability (Tabular) / Part-Whole Interpretability (Vision)**
+- **RecSys : Data Imputation**
+- **Time-Series : Anomaly Detection**
+- **XAI : Model-Intrinsic Interpretability (Tabular, Vision)**
 
 ### Experiences
 - Received the **B.A. Degree** in **Business Administration** from **Sungkyunkwan Univ.**, Seoul, Korea, in Feb., 2018
 - Received the **M.S. Degree** in **Statistics** from **Sungkyunkwan Univ.**, Seoul, Korea, in Aug., 2020
-- Admitted to the [**Data Intelligence Lab.**](https://dilab.hanyang.ac.kr) as a **Ph.D. Candidate** in **Artificial Intelligence** from **Hanyang Univ.**, Seoul, Korea, in Mar., 2021
+- Researching at the [**Data Intelligence Lab.**](https://dilab.hanyang.ac.kr) as a **Ph.D. Candidate** in **Artificial Intelligence** from **Hanyang Univ.**, Seoul, Korea, in Mar., 2021
 
 ### Selected Publications
 - **Sunghyun Hwang** and Dong-Kyu Chae, **An Uncertainty-Aware Imputation Framework for Alleviating the Sparsity Problem in Collaborative Filtering**, in [**CIKM 2022**](https://www.cikm2022.org), Oct. 17-21, 2022 (**A/R: 23%**)
