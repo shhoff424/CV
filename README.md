@@ -1,4 +1,4 @@
-### Sunghyun Hwang (shhoff)
+### Sunghyun Hwang
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shhoff" alt="shhoff" /> </p>
 
