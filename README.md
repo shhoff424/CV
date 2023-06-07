@@ -22,5 +22,4 @@
 ### Honors & Awards
 - SIGIR Student Travel Grants, [**CIKM 2022**](https://www.cikm2022.org)
 
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shhoff&show_icons=true" alt="shhoff" /></p>
