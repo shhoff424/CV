@@ -19,7 +19,7 @@
 ### Selected Projects
 - [**Doosan Bobcat**] Developing a Price Sensitivity Model for Profit Maximization (Jun., 2022 ~ May, 2023)
 - [**National Security Research Institute**] Correlation between Training Sample Size and Performance of Time-Series Anomaly Detection AI Models (Apr., 2023 ~ Oct., 2023)
-- [**Samsung Electronics**] Developing an Explainable Artificial Intelligence Technology for Semiconductor Process Data Analysis (June., 2023 ~ May., 2024)
+- [**Samsung Electronics**] Developing an Explainable Artificial Intelligence Technology for Semiconductor Process Data Analysis (Mar., 2023 ~ Feb., 2024)
 
 ### Honors & Awards
 - SIGIR Student Travel Grants, [**CIKM 2022**](https://www.cikm2022.org)
