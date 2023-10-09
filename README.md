@@ -3,8 +3,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shhoff" alt="shhoff" /> </p>
 
 ### Areas of Interest
-- **RecSys : Data Imputation**
-- **Time-Series : Anomaly Detection**
+- **RecSys : Data Imputation for CF**
+- **Uncertainty : Quantification and Calibration**
 - **XAI : Model-Intrinsic Interpretability (Tabular, Vision)**
 
 ### Experiences
