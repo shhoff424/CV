@@ -4,8 +4,8 @@
 
 ### Areas of Interest
 - **RecSys : Data Imputation for CF**
+- **Tabular XAI : Model-Intrinsic Interpretability**
 - **Uncertainty : Quantification and Calibration**
-- **XAI : Model-Intrinsic Interpretability (Tabular, Vision)**
 
 ### Experiences
 - Received the **B.A. Degree** in **Business Administration** from **Sungkyunkwan Univ.**, Seoul, Korea (Mar., 2012 ~ Feb., 2018)
