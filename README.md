@@ -3,9 +3,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shhoff" alt="shhoff" /> </p>
 
 ### Areas of Interest
-- **Recommender System : Data Imputation for Collaborative Filtering**
-- **Tabular XAI : Model-Intrinsic Interpretability**
-- **Uncertainty : Quantification Methods in Deep Learning**
+- **RecSys** : Data Imputation for Collaborative Filtering
+- **Tabular XAI** : Model-Intrinsic Interpretability
+- **Uncertainty** : Quantification Methods in Deep Learning
 
 ### Experiences
 - Received the **B.A. Degree** in **Business Administration** from **Sungkyunkwan Univ.**, Seoul, Korea (Mar., 2012 ~ Feb., 2018)
