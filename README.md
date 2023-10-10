@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shhoff" alt="shhoff" /> </p>
 
 ### Areas of Interest
-- **RecSys : Data Imputation for Collaborative Filtering**
+- **Recommender System : Data Imputation for Collaborative Filtering**
 - **Tabular XAI : Model-Intrinsic Interpretability**
 - **Uncertainty : Quantification Methods in Deep Learning**
 
