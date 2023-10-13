@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shhoff" alt="shhoff" /> </p>
 
 ### Areas of Interest
-- [**RecSys**] Enhancing Accuracy in Collaborative Filtering
+- [**RecSys**] Improving Accuracy in Collaborative Filtering
 - [**Tabular XAI**] Model-Intrinsic Interpretability in Predictive Modelling
 
 ### Experiences
