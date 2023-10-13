@@ -4,7 +4,7 @@
 
 ### Areas of Interest
 - [**RecSys**] Data Imputation for Collaborative Filtering
-- [**Tabular XAI**] Model-Intrinsic Interpretability in Prediction
+- [**Tabular XAI**] Model-Intrinsic Interpretability in Predictive Modelling
 
 ### Experiences
 - Received the **B.A. Degree** in **Business Administration** from **Sungkyunkwan Univ.**, Seoul, Korea (Mar., 2012 ~ Feb., 2018)
