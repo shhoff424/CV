@@ -3,8 +3,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shhoff" alt="shhoff" /> </p>
 
 ### Areas of Interest
-- [**RecSys**] Improving Accuracy in Collaborative Filtering
-- [**Tabular XAI**] Model-Intrinsic Interpretability in Predictive Modelling
+- [**RecSys**] Collaborative Filtering
+- [**Tabular XAI**] Model-Intrinsic Interpretability
 
 ### Experiences
 - Received the **B.A. Degree** in **Business Administration** from **Sungkyunkwan Univ.**, Seoul, Korea (Mar., 2012 ~ Feb., 2018)
