@@ -3,8 +3,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shhoff" alt="shhoff" /> </p>
 
 ### Areas of Interest
-- **Recommender Systems**
-- **Tabular XAI**
+- **Explainable Artificial Intelligence**
+- **Recommendation System**
 - **Uncertainty Quantification**
 
 ### Experiences
