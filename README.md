@@ -3,9 +3,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shhoff" alt="shhoff" /> </p>
 
 ### Areas of Interest
-- **Explainable Artificial Intelligence**
-- **Recommendation System**
-- **Uncertainty Quantification**
+- **RecSys (Collaborative Filtering)**
+- **Tab. XAI (Predictive Modelling)**
 
 ### Experiences
 - Received the **B.A. Degree** in **Business Administration** from **Sungkyunkwan Univ.**, Seoul, Korea (Mar., 2012 ~ Feb., 2018)
