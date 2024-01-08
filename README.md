@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shhoff" alt="shhoff" /> </p>
 
-### Areas of Interest
+### Research Interest
 - **Explainable Artificial Intelligence**
 - **Recommendation System**
 
