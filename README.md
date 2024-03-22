@@ -3,8 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shhoff" alt="shhoff" /> </p>
 
 ### Research Interests
-- **Explainable Artificial Intelligence**
-- **Uncertainty Quantification**
+In the recent several years, my research interest was mainly focused on **Recommender System (RecSys)**. Currently I am interested in developing **eXplainable Artificial Intelligence (XAI)** systems.
 
 ### Education
 - Received the **B.A. Degree** in **Business Administration** from **Sungkyunkwan Univ.**, Seoul, Korea (Mar., 2012 ~ Feb., 2018)
@@ -19,6 +18,7 @@
 - [**Hyundai Motor**] Developing an Explainable Artificial Intelligence Technology for Autonomous Vehicle PHM Data Analysis (Mar., 2024 ~ Nov., 2024) 
 
 ### Publications
+- 협업 필터링의 정확도 향상을 위한 단계적 증분 기반의 데이터 임퓨테이션 기법
 - **Sunghyun Hwang** and Dong-Kyu Chae, **An Uncertainty-Aware Imputation Framework for Alleviating the Sparsity Problem in Collaborative Filtering**, in [**CIKM 2022**](https://dl.acm.org/doi/proceedings/10.1145/3511808), Oct. 17-21, 2022 (**A/R: 23%**)
 
 ### Awards & Honors
