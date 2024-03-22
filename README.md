@@ -18,7 +18,7 @@
 - [**Samsung Electronics**] Developing an Explainable Artificial Intelligence Technology for Semiconductor Process Data Analysis (Mar., 2023 ~ Feb., 2025)
 - [**Hyundai Motor**] Developing an Explainable Artificial Intelligence Technology for Autonomous Vehicle PHM Data Analysis (Mar., 2024 ~ Nov., 2024) 
 
-### Selected Publications
+### Publications
 - **Sunghyun Hwang** and Dong-Kyu Chae, **An Uncertainty-Aware Imputation Framework for Alleviating the Sparsity Problem in Collaborative Filtering**, in [**CIKM 2022**](https://dl.acm.org/doi/proceedings/10.1145/3511808), Oct. 17-21, 2022 (**A/R: 23%**)
 
 ### Awards & Honors
