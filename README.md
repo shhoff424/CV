@@ -3,7 +3,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shhoff" alt="shhoff" /> </p>
 
 ### Research Interests
-In the recent several years, my research interest was mainly focused on **Recommender System (RecSys)**. Currently I am interested in developing **eXplainable Artificial Intelligence (XAI)** systems.
+- **Explainable Artificial Intelligence**
+- **Recommender System**
+- **Uncertainty Quantification**
 
 ### Education
 - Received the **B.A. Degree** in **Business Administration** from **Sungkyunkwan Univ.**, Seoul, Korea (Mar., 2012 ~ Feb., 2018)
