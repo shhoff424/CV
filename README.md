@@ -14,9 +14,9 @@
 (Mar., 2021 ~)
 
 ### Projects
-- [**Doosan Bobcat**] Developing a Price Sensitivity Model for Profit Maximization (Jun., 2022 ~ May, 2023)
-- [**Hyundai Motor**] Developing an Explainable Artificial Intelligence Technology for Autonomous Vehicle PHM Data Analysis (Mar., 2024 ~ Nov., 2024)
-- [**Samsung Electronics**] Developing an Explainable Artificial Intelligence Technology for Semiconductor Process Data Analysis (Mar., 2023 ~ Feb., 2025)
+- [**Doosan Bobcat**] 마켓 데이터 기반 수익 극대화를 위한 가격 의사결정 설명 가능한 A.I. 모델 연구 (Jun., 2022 ~ May, 2023)
+- [**Hyundai Motor**] 차량 PHM에서 불확실성 기반 설명 가능한 A.I. 모델을 활용한 신뢰할 수 있는 위험 인자 탐색 및 설명 프레임워크 개발 (Mar., 2024 ~ Nov., 2024)
+- [**Samsung Electronics**] 반도체 공정 결함 예측 및 예지 정비를 위한 설명 가능한 A.I. 모델 연구 (Mar., 2023 ~ Feb., 2025)
 
 ### Domestic Publications
 - **황성현**, 채동규, 이상철, **협업 필터링의 정확도 향상을 위한 단계적 증분 기반의 데이터 임퓨테이션 기법**, in [**KSC 2021**](https://www.kiise.or.kr/conference/KSC/2021), Dec. 20-22, 2021
