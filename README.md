@@ -5,7 +5,6 @@
 ### Research Interests
 - **Explainable Artificial Intelligence**
 - **Recommender System**
-- **Uncertainty Quantification**
 
 ### Education
 - Received the **B.A. Degree** in **Business Administration** from **Sungkyunkwan Univ.**, Seoul, Korea (Mar., 2012 ~ Feb., 2018)
