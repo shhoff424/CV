@@ -14,7 +14,7 @@
 
 ### Projects
 - [**Doosan Bobcat**] 마켓 데이터 기반 수익 극대화를 위한 가격 의사결정 설명 가능한 A.I. 모델 연구 (Jun., 2022 ~ May, 2023)
-- [**Hyundai Motor**] 차량 PHM에서 불확실성 기반 설명 가능한 A.I. 모델을 활용한 신뢰할 수 있는 위험 인자 탐색 및 설명 프레임워크 개발 (Mar., 2024 ~ Nov., 2024)
+- [**Hyundai Motor**] 차량 부품 고장 진단 및 예지를 위한 설명 가능한 A.I. 기술 개발 (Mar., 2024 ~ Nov., 2024)
 - [**Samsung Electronics**] 반도체 공정 결함 예측 및 예지 정비를 위한 설명 가능한 A.I. 모델 연구 (Mar., 2023 ~ Feb., 2025)
 
 ### Domestic Publications
