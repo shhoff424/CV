@@ -25,7 +25,7 @@
 - **Sunghyun Hwang** and Dong-Kyu Chae, **An Uncertainty-Aware Imputation Framework for Alleviating the Sparsity Problem in Collaborative Filtering**, in [**CIKM 2022**](https://dl.acm.org/doi/proceedings/10.1145/3511808), Oct. 17-21, 2022 (**A/R: 23%**)
 - **Sunghyun Hwang**, Sangmyeong Lee, Eunjung Choi, Jongsoo Lee, and Dong-Kyu Chae, **An XAI Model for Semiconductor Manufacturing Processes with Exploring Process Parameter Interactions based on Uncertainty**, in [**KISM 2023**](http://kism2023.kr), Nov. 19-23, 2023
 - Sangmyeong Lee, **Sunghyun Hwang**, Eunjung Choi, Xueyi Zhou, and Dong-Kyu Chae, **An XAI Model for Semiconductor Manufacturing Processes based on Confidence Interval Visualization for the Impact of Process Parameters**, in [**KISM 2023**](http://kism2023.kr), Nov. 19-23, 2023
-- Yoo Hyun Jeong, **Sunghyun Hwang** and Dong-Kyu Chae, **HiLite: Hierarchical Level-implemented Architecture Attaining Part-Whole Interpretability**, in [**CIKM 2024**](https://dl.acm.org/doi/proceedings/10.1145/3511808), Oct. 21-25, 2024 (**A/R: 23%**)
+- Yoo Hyun Jeong, **Sunghyun Hwang** and Dong-Kyu Chae, **HiLite: Hierarchical Level-implemented Architecture Attaining Part-Whole Interpretability**, in [**CIKM 2024**](https://cikm2024.org/), Oct. 21-25, 2024 (**A/R: 23%**)
 
 ### Award & Honor
 - SIGIR Student Travel Grants, [**CIKM 2022**](https://dl.acm.org/doi/proceedings/10.1145/3511808)
