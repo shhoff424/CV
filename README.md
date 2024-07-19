@@ -28,7 +28,7 @@
 - Yoo Hyun Jeong, **Sunghyun Hwang** and Dong-Kyu Chae, **HiLite: Hierarchical Level-implemented Architecture Attaining Part-Whole Interpretability**, in [**CIKM 2024**](https://cikm2024.org/), Oct. 21-25, 2024 (**A/R: 23%**)
 
 ### Award & Honor
-- **SIGIR** Student Travel Grants, [**CIKM 2022**](https://dl.acm.org/doi/proceedings/10.1145/3511808)
-- Ph.D. Fellowship from **NRF** of Korea (Sep., 2024 ~ Aug., 2025)
+- [**SIGIR Student Travel Grants**] Title: An Uncertainty-Aware Imputation Framework for Alleviating the Sparsity Problem in Collaborative Filtering (Oct. 17-21, 2022)
+- [**Ph.D. Fellowship from NRF of Korea**] Title: Research on Enhancing Explainability of AI via Uncertainty Quantification (Sep., 2024 ~ Aug., 2025)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shhoff&show_icons=true" alt="shhoff" /></p>
