@@ -29,5 +29,6 @@
 
 ### Award & Honor
 - SIGIR Student Travel Grants, [**CIKM 2022**](https://dl.acm.org/doi/proceedings/10.1145/3511808)
+- Ph.D. Fellowship from NRF (National Research Foundation) of Korea (Sep., 2024 ~ Aug., 2025)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shhoff&show_icons=true" alt="shhoff" /></p>
