@@ -22,7 +22,7 @@
 - 신희준, **황성현**, 채동규, **프루닝 기반의 희소 훈련을 활용한 협업 필터링 모델 규제 방안**, in [**KSC 2023**](https://www.kiise.or.kr/conference/KSC/2023), Dec. 20-22, 2023
 
 ### International Publication
-- **Sunghyun Hwang** and Dong-Kyu Chae, **An Uncertainty-Aware Imputation Framework for Alleviating the Sparsity Problem in Collaborative Filtering**, in [**CIKM 2022**](https://dl.acm.org/doi/proceedings/10.1145/3511808), Oct. 17-21, 2022 (**A/R: 23%**)
+- **Sunghyun Hwang** and Dong-Kyu Chae, **An Uncertainty-Aware Imputation Framework for Alleviating the Sparsity Problem in Collaborative Filtering**, in [**CIKM 2022**](http://www.cikmconference.org/2022/), Oct. 17-21, 2022 (**A/R: 23%**)
 - **Sunghyun Hwang**, Sangmyeong Lee, Eunjung Choi, Jongsoo Lee, and Dong-Kyu Chae, **An XAI Model for Semiconductor Manufacturing Processes with Exploring Process Parameter Interactions based on Uncertainty**, in [**KISM 2023**](http://kism2023.kr), Nov. 19-23, 2023
 - Sangmyeong Lee, **Sunghyun Hwang**, Eunjung Choi, Xueyi Zhou, and Dong-Kyu Chae, **An XAI Model for Semiconductor Manufacturing Processes based on Confidence Interval Visualization for the Impact of Process Parameters**, in [**KISM 2023**](http://kism2023.kr), Nov. 19-23, 2023
 - Yoo Hyun Jeong, **Sunghyun Hwang** and Dong-Kyu Chae, **HiLite: Hierarchical Level-implemented Architecture Attaining Part-Whole Interpretability**, in [**CIKM 2024**](https://cikm2024.org/), Oct. 21-25, 2024 (**A/R: 23%**)
