@@ -26,6 +26,8 @@
 - **Sunghyun Hwang**, Sangmyeong Lee, Eunjung Choi, Jongsoo Lee, and Dong-Kyu Chae, **An XAI Model for Semiconductor Manufacturing Processes with Exploring Process Parameter Interactions based on Uncertainty**, in [**KISM 2023**](http://kism2023.kr), Nov. 19-23, 2023
 - Sangmyeong Lee, **Sunghyun Hwang**, Eunjung Choi, Xueyi Zhou, and Dong-Kyu Chae, **An XAI Model for Semiconductor Manufacturing Processes based on Confidence Interval Visualization for the Impact of Process Parameters**, in [**KISM 2023**](http://kism2023.kr), Nov. 19-23, 2023
 - Yoo Hyun Jeong, **Sunghyun Hwang** and Dong-Kyu Chae, **HiLite: Hierarchical Level-implemented Architecture Attaining Part-Whole Interpretability**, in [**CIKM 2024**](https://cikm2024.org/), Oct. 21-25, 2024 (**A/R: 23%**)
+- Eunjung Choi, Seonggyeom Kim, **Sunghyun Hwang**, Sangmyeong Lee, **A Stable Method for Measuring Feature Attribution using Causal Effects in Semiconductor Manufacturing Processes**, in [**KISM 2024**](http://kism2024.kr), Nov. 11-15, 2024
+- Eunjung Choi, Seonggyeom Kim, **Sunghyun Hwang**, Sangmyeong Lee, **An Improved Causal Graph Discovery Method Robust to Noise Variability in Semiconductor Manufacturing Processes**, in [**KISM 2024**](http://kism2024.kr), Nov. 11-15, 2024
 
 ### Award & Honor
 - [**SIGIR Student Travel Grants**] An Uncertainty-Aware Imputation Framework for Alleviating the Sparsity Problem in Collaborative Filtering (Oct. 17-21, 2022)
