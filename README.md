@@ -18,7 +18,7 @@
 - [**Hyundai Motor**] 차량 부품 고장 진단 및 예지를 위한 설명가능한 인공지능 기술 개발 (Mar., 2024 ~ Nov., 2024)
 
 ### Domestic Publication
-- **황성현**, **다변량 실현 변동성 예측을 위한 심층 촐레스키 순환 신경망 모형**, [**Master's Dissertation**](https://lib.skku.edu/), Aug., 2020
+- **황성현**, **다변량 실현 변동성 예측을 위한 심층 촐레스키 순환 신경망 모형**, [**Master's Thesis**](https://lib.skku.edu/), Aug., 2020
 - **황성현**, 채동규, 이상철, **협업 필터링의 정확도 향상을 위한 단계적 증분 기반의 데이터 임퓨테이션 기법**, in [**KSC 2021**](https://www.kiise.or.kr/conference/KSC/2021), Dec. 20-22, 2021
 - 신희준, **황성현**, 채동규, **프루닝 기반의 희소 훈련을 활용한 협업 필터링 모델 규제 방안**, in [**KSC 2023**](https://www.kiise.or.kr/conference/KSC/2023), Dec. 20-22, 2023
 
