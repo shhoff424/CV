@@ -9,7 +9,7 @@
 ### Education
 - Received the **B.A. Degree** in **Business Administration** from **Sungkyunkwan Univ.**, Seoul, Korea (Mar., 2012 ~ Feb., 2018)
 - Received the **M.S. Degree** in **Statistics** from **Sungkyunkwan Univ.**, Seoul, Korea (Mar., 2018 ~ Aug., 2020)
--   <Master's Thesis: 다변량 실현 변동성 예측을 위한 심층 촐레스키 순환 신경망 모형>
+  - Master's Thesis: *"다변량 실현 변동성 예측을 위한 심층 츌레스키 순환 신경망 모형"*
 - Researching at the [**Data Intelligence Lab.**](https://dilab.hanyang.ac.kr) as a **Ph.D. Candidate** in **Artificial Intelligence** from **Hanyang Univ.**, Seoul, Korea
 (Mar., 2021 ~)
 
