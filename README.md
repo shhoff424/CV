@@ -4,9 +4,9 @@
 
 ### Research Interest
 I am deeply interested in all areas of **AI-Powered Data Science**, with a particular focus on:
-- **Marketing Decision-Making**: Leveraging AI technologies to optimize promotional strategies and decision-making processes.
-- **Manufacturing Prognostics and Health Management**: Developing explainable AI technologies for fault diagnosis and predictive maintenance.
-- **Recommender Systems**: Addressing various challenges in recommender systems through AI technologies.
+- **Marketing Decision-Making**
+- **Manufacturing Prognostics and Health Management**
+- **Recommender Systems**
 
 Currently, my research is particularly focused on advancing AI technologies by integrating the capabilities of **Large Language Models**.
 
