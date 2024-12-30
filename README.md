@@ -3,7 +3,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shhoff" alt="shhoff" /> </p>
 
 ### Research Interest
-My research interests include all areas of **AI-Powered Data Science**. So far, I have worked on AI technologies for **Marketing Decision-Making**, **Manufacturing Prognostics and Health Management**, and **Recommender Systems**. Currently, I am particularly interested in enhancing AI technologies by leveraging **Large Language Models**.
+I am deeply interested in all areas of **AI-Powered Data Science**, with a particular focus on:
+- **Marketing Decision-Making**: Leveraging AI technologies to optimize promotional strategies and decision-making processes.
+- **Manufacturing Prognostics and Health Management**: Developing explainable AI technologies for fault diagnosis and predictive maintenance.
+- **Recommender Systems**: Addressing various challenges in recommender systems through AI technologies.
+Currently, my research is particularly focused on advancing AI technologies by integrating the capabilities of **Large Language Models**.
 
 ### Education
 - Received the **B.A. Degree** in **Business Administration** from **Sungkyunkwan Univ.**, Seoul, Korea (Mar., 2012 ~ Feb., 2018)
