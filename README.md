@@ -8,7 +8,7 @@ I am deeply interested in all areas of **AI-Powered Data Science**, with a parti
 - **Manufacturing Prognostics and Health Management**
 - **Recommender Systems**
 
-Currently, my research is focused on advancing AI technologies by leveraging **Large Language Models**.
+Currently, my research is focused on advancing AI by leveraging **Large Language Models**.
 
 ### Education
 - Received the **B.A. Degree** in **Business Administration** from **Sungkyunkwan Univ.**, Seoul, Korea (Mar., 2012 ~ Feb., 2018)
