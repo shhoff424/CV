@@ -8,7 +8,6 @@ My research interests include all areas of **AI-Powered Data Science**. So far, 
 ### Education
 - Received the **B.A. Degree** in **Business Administration** from **Sungkyunkwan Univ.**, Seoul, Korea (Mar., 2012 ~ Feb., 2018)
 - Received the **M.S. Degree** in **Statistics** from **Sungkyunkwan Univ.**, Seoul, Korea (Mar., 2018 ~ Aug., 2020)
-  - Master's Thesis: *Forecasting Multivariate Realized Volatility with Deep Cholesky RNN Models*
 - Researching at the [**Data Intelligence Lab.**](https://dilab.hanyang.ac.kr) as a **Ph.D. Candidate** in **Artificial Intelligence** from **Hanyang Univ.**, Seoul, Korea
 (Mar., 2021 ~)
 
