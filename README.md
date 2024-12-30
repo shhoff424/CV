@@ -3,8 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shhoff" alt="shhoff" /> </p>
 
 ### Research Interest
-- **Artificial Intelligence Applications**
-- **Recommender System**
+My research interests include all areas of **AI-Powered Data Science**. So far, I have worked on AI technologies for **Marketing Decision-Making**, **Manufacturing Prognostics and Health Management**, and **Recommender Systems**. Currently, I am particularly interested in enhancing AI technologies by leveraging **Large Language Models**.
 
 ### Education
 - Received the **B.A. Degree** in **Business Administration** from **Sungkyunkwan Univ.**, Seoul, Korea (Mar., 2012 ~ Feb., 2018)
