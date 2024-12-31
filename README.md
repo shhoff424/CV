@@ -3,12 +3,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shhoff" alt="shhoff" /> </p>
 
 ### Research Interest
-I am deeply interested in all areas of **AI-Driven Data Science**, with a particular focus on:
+I am deeply interested in all areas of **AI-driven Data Science**, with a particular focus on:
 - **Marketing Decision-Making**
 - **Manufacturing Prognostics and Health Management**
 - **Recommender Systems**
 
-Currently, my research focuses on enhancing AI-Driven frameworks by leveraging **Large Language Models**.
+Currently, my research focuses on enhancing AI-driven frameworks by leveraging **Large Language Models**.
 
 ### Education
 - Received the **B.A. Degree** in **Business Administration** from **Sungkyunkwan Univ.**, Seoul, Korea (Mar., 2012 ~ Feb., 2018)
