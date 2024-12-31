@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shhoff" alt="shhoff" /> </p>
 
 ### Research Interest
-I am deeply interested in all areas of **AI-Powered Data Science**, with a particular focus on:
+I am deeply interested in all areas of **AI-Driven Data Science**, with a particular focus on:
 - **Marketing Decision-Making**
 - **Manufacturing Prognostics and Health Management**
 - **Recommender Systems**
