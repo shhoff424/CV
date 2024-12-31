@@ -4,7 +4,7 @@
 
 ### Research Interest
 I am deeply interested in all areas of **AI-driven Data Science**, with a particular focus on:
-- **Marketing Decision-Making**
+- **Marketing Decision Making**
 - **Manufacturing Prognostics and Health Management**
 - **Recommender Systems**
 
