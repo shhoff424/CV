@@ -17,7 +17,7 @@ Currently, my research focuses on enhancing AI-driven frameworks by leveraging *
 
 ### Project
 - [**Doosan Bobcat**] 마켓데이터 기반의 수익 극대화를 위한 프로모션 의사결정 모델 및 재고할당 모델 연구 (Jun., 2022 ~ May, 2023)
-- [**Samsung Electronics**] 반도체 공정 데이터 분석을 위한 설명가능한 인공지능 기술 개발 (Mar., 2023 ~ Feb., 2025)
+- [**Samsung Electronics**] 반도체 공정 데이터 분석을 위한 설명가능한 인공지능 기술 개발 (Mar., 2023 ~ Feb., 2024)
 - [**Hyundai Motor**] 차량 부품 고장 진단 및 예지를 위한 설명가능한 인공지능 기술 개발 (Mar., 2024 ~ Nov., 2024)
 
 ### Domestic Publication
