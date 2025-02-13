@@ -7,7 +7,7 @@ I am deeply interested in all areas of **AI-driven Data Science**, with a partic
 - **Explainable AI (XAI)**
 - **Recommender System (RecSys)**
 
-Currently, my research focuses on leveraging **Large Language Model (LLM)** by applying a **Graph-based Retrieval-Augmented Generation (GraphRAG)** technique.
+Currently, my research focuses on applying **Graph-based Retrieval-Augmented Generation (GraphRAG)** to leverage Large Language Models.
 
 ### Education
 - Received the **B.A. Degree** in **Business Administration** from **Sungkyunkwan Univ.**, Seoul, Korea (Mar., 2012 ~ Feb., 2018)
