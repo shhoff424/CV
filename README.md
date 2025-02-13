@@ -5,7 +5,7 @@
 ### Research Interest
 I am deeply interested in all areas of **AI-driven Data Science**, with a particular focus on:
 - **Explainable AI (XAI)**
-- **Recommender System (RecSys)**
+- **Recommendation System (RecSys)**
 
 Currently, my research focuses on enhancing AI-driven frameworks by applying a **Graph-based Retrieval-Augmented Generation (GraphRAG)** technique to Large Language Models.
 
