@@ -36,4 +36,4 @@ Currently, my research focuses on enhancing AI-driven frameworks by leveraging *
 - [**SIGIR Student Travel Grants**] An Uncertainty-Aware Imputation Framework for Alleviating the Sparsity Problem in Collaborative Filtering (Oct. 17-21, 2022)
 - [**Ph.D. Fellowship from NRF of Korea**] Research on Enhancing Explainability of AI via Uncertainty Quantification (Sep., 2024 ~ Aug., 2025)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shhoff&show_icons=true" alt="shhoff" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shhoff&show_icons=true" alt="shhoff424" /></p>
