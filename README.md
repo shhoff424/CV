@@ -5,9 +5,9 @@
 ### Research Interest
 I am deeply interested in all areas of **AI-driven Data Science**, with a particular focus on:
 - **Explainable AI (XAI)**
-- **Recommender Systems (RecSys)**
+- **Recommender System (RecSys)**
 
-Currently, my research focuses on enhancing AI-driven frameworks by leveraging **Large Language Models (LLMs)**.
+Currently, my research focuses on enhancing AI-driven frameworks by leveraging **Large Language Model (LLM)**.
 
 ### Education
 - Received the **B.A. Degree** in **Business Administration** from **Sungkyunkwan Univ.**, Seoul, Korea (Mar., 2012 ~ Feb., 2018)
