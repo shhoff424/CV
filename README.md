@@ -3,8 +3,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shhoff" alt="shhoff" /> </p>
 
 ### Research Interest
-I am deeply interested in all areas of **Data Science** driven by **AI** and **Statistics**.
-Currently, my research focuses on enhancing **Data Science** frameworks by leveraging **Large Language Model (LLM)**.
+I am deeply interested in all areas of **Recommender Systems** and **Explainable AI**.
+Currently, my research focuses on enhancing the proposed frameworks by leveraging **KG-based Prompting (LLMs)**.
 
 ### Education
 - Received the **B.A. Degree** in **Business Administration** from **Sungkyunkwan Univ.**, Seoul, Korea (Mar., 2012 ~ Feb., 2018)
