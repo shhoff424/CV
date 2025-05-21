@@ -4,7 +4,7 @@
 
 ### Research Interest
 I am deeply interested in all areas of **Recommender Systems** and **Explainable AI**.
-Currently, my research focuses on enhancing the proposed frameworks by leveraging **KG-based Prompting (LLMs)**.
+Currently, my research focuses on enhancing the proposed frameworks by leveraging **KG-based LLM Prompting**.
 
 ### Education
 - Received the **B.A. Degree** in **Business Administration** from **Sungkyunkwan Univ.**, Seoul, Korea (Mar., 2012 ~ Feb., 2018)
