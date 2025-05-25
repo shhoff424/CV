@@ -5,7 +5,7 @@
 ### Research Interest
 My primary research interests include:
 
-*   **Recommender Systems (RecSys)**
+*   **Recommender Systems**
 *   **Explainable AI (XAI)**
 
 Currently, I am focused on advancing these fields by leveraging **KG-based LLM Prompting**.
