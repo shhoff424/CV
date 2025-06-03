@@ -3,8 +3,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shhoff" alt="shhoff" /> </p>
 
 ### Research Interest
-My primary research interests include:
-
 *   **추천 시스템 (Recommender Systems)**
 *   **설명 가능한 인공지능 (Explainable AI, XAI)**
 
