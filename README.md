@@ -8,8 +8,6 @@ My primary research interests include:
 *   **Recommender Systems**
 *   **Explainable AI (XAI)**
 
-Currently, I am focused on advancing these fields by leveraging **Graph-based LLM Prompting**.
-
 ### Education
 - Received the **B.A. Degree** in **Business Administration** from **Sungkyunkwan Univ.**, Seoul, Korea (Mar., 2012 ~ Feb., 2018)
 - Received the **M.S. Degree** in **Statistics** from **Sungkyunkwan Univ.**, Seoul, Korea (Mar., 2018 ~ Aug., 2020)
